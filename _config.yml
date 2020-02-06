@@ -1,4 +1,8 @@
 theme: jekyll-theme-midnight
 github:
+<<<<<<< HEAD
         is_project_page: false
 title: あのマス
+=======
+  is_project_page: false
+>>>>>>> fe3ee2a40e28a019e343e569199e92469a5dafe3
