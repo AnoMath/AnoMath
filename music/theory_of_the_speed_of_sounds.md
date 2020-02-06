@@ -1,2 +1,2 @@
-$v$vを音速として，
-\[ v=\sqrt{\frac{\gamma R}{M}T} \]
+$v$を音速として，
+\\[ v=\sqrt{\frac{\gamma R}{M}T} \\]
