@@ -14,6 +14,16 @@ footer {
   display: none !important;
 }
 
+section {
+  #title {
+    .credits {
+      &.right{
+        display: none;
+      }
+    }
+  }
+}
+
 /*
 #title {
   display: none;
