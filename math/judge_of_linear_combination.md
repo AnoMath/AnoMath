@@ -18,7 +18,7 @@ a\left( \begin{array}{c} 1 \\ 2 \\ 3 \end{array} \right)　+ b\left( \begin{arra
 2. ３つのベクトル$x_1, x_2, x_3$は，線型空間$<x_1, x_2, x_3>$の基底である．
 
 
-但し，$$<x_1, x_2, x_3>=\{ ax_1+bx_2+cx_3 \in\mathbb{R}^3 | a,b,c\in\mathbb{R} \}$$である．
+但し，$$<x_1, x_2, x_3>=\{ ax_1+bx_2+cx_3 \in\mathbb{R}^3 : a,b,c\in\mathbb{R} \}$$である．
 
 これを用いて，
 
