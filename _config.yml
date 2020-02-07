@@ -4,5 +4,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-description: AnoMathの文書置き場
+title: あのマス
+description: AnoMathさんの文書置き場
 markdown: kramdown
