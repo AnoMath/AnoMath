@@ -12,3 +12,5 @@ script tagで括ったTikZのcodeを，SVG codeに変換してくれるTikZJax�
 ```
 
 が実行される．こうしてscript tagで括られたTikZ環境のcodeが実行され．結果がdumpされる．[TikZ](https://en.wikipedia.org/wiki/PGF/TikZ)は[PGF](https://en.wikipedia.org/wiki/Progressive_Graphics_File)言語を利用した（？）画像生成マクロパッケージだから，dumpされた結果はPGFで書かれている．これをDVIに変換してから，SVGが生成される．ここまで，全てユーザのブラウザ上での消息であるとのことだ．
+
+[戻る](home)
