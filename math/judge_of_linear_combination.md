@@ -16,6 +16,7 @@ a\left( \begin{array}{c} 1 \\ 2 \\ 3 \end{array} \right)　+ b\left( \begin{arra
 補題：次の２つの条件は同値．
 1. ３つのベクトル$x_1, x_2, x_3\in\mathbb{R}^3$が線型独立である．
 2. ３つのベクトル$x_1, x_2, x_3$は，線型空間$<x_1, x_2, x_3>$の基底である．
+
 但し，$$<x_1, x_2, x_3>=\{ ax_1+bx_2+cx_3 \in\mathbb{R}^3 | a,b,c\in\mathbb{R} \}$$である．
 
 これを用いて，
