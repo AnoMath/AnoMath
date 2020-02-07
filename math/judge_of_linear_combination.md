@@ -17,6 +17,10 @@ a\left( \begin{array}{c} 1 \\ 2 \\ 3 \end{array} \right)+ b\left( \begin{array}{
 1. ３つのベクトル$x_1, x_2, x_3\in\mathbb{R}^3$が線型独立である．
 2. ３つのベクトル$x_1, x_2, x_3$は，線型空間$<x_1, x_2, x_3>$の基底である．
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1c0627c608841cc68664185660149f82ead5e47c
 但し，$$<x_1, x_2, x_3>=\{ ax_1+bx_2+cx_3 \in\mathbb{R}^3 : a,b,c\in\mathbb{R} \}$$である．
 
 これを用いて，
