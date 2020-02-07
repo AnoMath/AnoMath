@@ -2,7 +2,8 @@
 ==
 
 コンテンツ一覧
-* [音楽](https://anomath.github.io/AnoMath/music/theory_of_the_speed_of_sounds)
-* 数学
-* YouTube
-* このサイトが出来るまで
+* [音楽](https://anomath.github.io/AnoMath/music/index)
+* [数学](https://anomath.github.io/AnoMath/math/index)
+* [数学の哲学](https://anomath.github.io/AnoMath/philosophy/index)
+* [このサイトが出来るまで](https://anomath.github.io/AnoMath/diary/index)
+* YouTube (準備中)
