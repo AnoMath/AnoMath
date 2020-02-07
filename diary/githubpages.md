@@ -1,6 +1,7 @@
 # GitHub Pagesの設定
 <br>
 GitHub Pagesでは[Jekyll](https://jekyllrb.com)を利用してWebサイトを作成している．私のGitHub repositoryに入っている設定用ファイルは以下の通り．
+<details>
 <div>
 + `_layouts` : Jekyllの設定上この名前でなければならない．
     - `default.html` : [Jekyllのpages-themeのGitHub repository](https://github.com/pages-themes/midnight)からコピーして来て，[MathJaxの追加](mathjax)や[TikZJaxの追加](tikzjax)などを行った．
@@ -17,5 +18,6 @@ permalink: /404.html
 ```
 と書けば，これが404ページとして表示される．これをYAML front matterと読んで，Jekyllにspecial fileだと認識させるためのもの．詳しくは[公式document](https://jekyllrb.com/docs/front-matter/)へ．
 </div>
+</details>
 
 [戻る](home)
