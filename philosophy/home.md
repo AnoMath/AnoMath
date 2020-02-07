@@ -2,4 +2,4 @@
 
 - 数学とは何か
 
-[戻る](../index)
+[戻る](https://anomath.github.io/AnoMath/index)
