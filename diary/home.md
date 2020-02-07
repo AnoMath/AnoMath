@@ -5,7 +5,7 @@
 ## 記録
 - [GitHub Pagesを設定する](githubpages)
 - [Markdown記法](markdown)
-- [Markdown記法でTeXを打てるようにする（MathJax）](mathjax)
+- [Markdown記法で$\TeX$を打てるようにする（MathJax）](mathjax)
 - [Markdown記法でTikzを打てるようにする（TikZJax）](tikzjax)
 - [サイトの見た目を整える](css)
 

@@ -3,7 +3,7 @@
 ## TikZJaxとは
 
 script tagで括ったTikZのcodeを，SVG codeに変換してくれるTikZJaxというcompilerがあった（[GitHub](https://github.com/kisonecat/tikzjax)，[HP](http://tikzjax.com/)）．このHPに仕組みの解説があるので，以下に噛み砕いた結果を書いていく．
-[web2js](https://github.com/kisonecat/web2js)という同じくJim Fowlerさんが作っているcompilerで，TeXエンジンをWebAssemblyにcompileする．続いて$\LaTeX$ formatが読み込まれ，
+[web2js](https://github.com/kisonecat/web2js)という同じくJim Fowlerさんが作っているcompilerで，$\TeX$エンジンをWebAssemblyにcompileする．続いて$\LaTeX$ formatが読み込まれ，
 
 ```[tex]
 \documentclass[margin=0pt]{standalone}

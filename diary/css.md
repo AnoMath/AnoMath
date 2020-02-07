@@ -4,7 +4,7 @@ GitHub Pagesでは，Jeklly Themeというテンプレートを使ってサイ�
 
 - [このサイト](https://github.com/pages-themes/cayman/issues/29)を見て，ヘッダーの内容を少し調整して，なるべく余計な情報を削ってシンプルにした．
 - [GitHub repository](https://github.com/pages-themes/midnight)の`README.md`を参考にして，`/assets/css/style.scss`というファイルを作って，
-```[css]
+```
 ---
 ---
 
